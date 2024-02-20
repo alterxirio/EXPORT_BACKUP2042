@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.belt-area{
+    display: flex;
+    background-color: antiquewhite;
+    position: relative;
+    top: 40vh;
+    
+}
+.key-area{
+    background-color: red;
+}
+.belt{
+    width: 50%;
+    background-color: greenyellow;
+    position: absolute;
+    right: 5%;
+}
+.key img{
+    width: 25%;
+    background-color: aqua;
+    position: absolute;
+    right: 55%;
+}
